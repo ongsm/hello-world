@@ -6,5 +6,6 @@ I'm learning to use GitHub
 
 <img src="images/img1.png" alt="Food_2" width="300"/>
 
-<img src="images/img1.png" alt="Food_3" style="display: block; margin: 0 auto;">
-
+<p align="center">
+    <img src="images/img1.png" alt="Food_3">
+</p>
