@@ -13,6 +13,12 @@ Briefly describe the problem context and business/domain background.
     <img src="images/img1.png" alt="Food_3" width="150">
 </p>
 
+## Limitations
+* Time constraints limited further model performance improvement.
+    - abc adb
+* The absence of a data dictionary
+    * df ead 
+
 ## References
     - [geeksforgeeks](https://www.geeksforgeeks.org/git/what-is-readme-md-file/))
 * [Anything](https://www.youngurbanproject.com/marketing-mix-modeling/)
